@@ -45,6 +45,37 @@ bize bağlı kalmazlar ve kendi ihtiyaçlarına göre sözcük üretebilirler.
   Mesela ön ek "ukk-" dün anlamına gelirken son ek "-ukk" iki gün öncesi anlamına gelebilir. 
 
 #### - Kişi Grubu (birinci tekil kişi/ben, ikinci çoğul kişi/siz vs.)
-- Ses dizesi: CVC
+- Ses dizesi: CV
+- Sadece son ek
+- Örnek:
+
+  -ta: Ben, 1SG
+
+  {gitmek}ta : Ben gittim.
+
 #### - Sayı Grubu (Tekil, çoğul belki ikil(dual))
-#### - Cinsiyet Grubu (Eğer dilbilgilsel cinsiyet olacaksa)
+- Ses dizesi: VC
+- Hem ön ek, hem son ek
+- Bu gruba determiner'ları (the, le/la) da alabiliriz
+- Örnek:
+
+  ol- : Çoğul eki, -lar/ler
+  
+  ol{araba}: Arabalar
+- Örnek:
+
+  as- : Maskülen Det.
+  
+  es-: Feminen Det.
+  
+  is-: Nötr Det.
+#### - Cinsiyet Grubu
+- Dilbilgisel cinsiyet opsiyonel fakat belirlenirken kökün son ünlüsü "a" sesi ise maskülen, "e" sesi ise feminen başka bir ünlü ise nötr.
+- Sözlüksel cinsiyet eki için ses dizesi: V
+- Sadece son ek
+- Örnek:
+
+  {kedi}a: erkek kedi
+  
+  {kedi}e: dişi kedi
+- Sözlüksel cinsiyet ismin cinsiyeti belirtilmek istenirken kullanılır.
